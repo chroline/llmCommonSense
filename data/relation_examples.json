@@ -1,0 +1,394 @@
+{
+    "/r/RelatedTo": [
+        [
+            "rain",
+            "umbrella"
+        ],
+        [
+            "writer",
+            "book"
+        ],
+        [
+            "moon",
+            "night"
+        ]
+    ],
+    "/r/FormOf": [
+        [
+            "running",
+            "run"
+        ],
+        [
+            "children",
+            "child"
+        ],
+        [
+            "better",
+            "good"
+        ]
+    ],
+    "/r/IsA": [
+        [
+            "dog",
+            "animal"
+        ],
+        [
+            "rose",
+            "flower"
+        ],
+        [
+            "piano",
+            "instrument"
+        ]
+    ],
+    "/r/PartOf": [
+        [
+            "keyboard",
+            "computer"
+        ],
+        [
+            "leaf",
+            "tree"
+        ],
+        [
+            "engine",
+            "airplane"
+        ]
+    ],
+    "/r/HasA": [
+        [
+            "car",
+            "engine"
+        ],
+        [
+            "house",
+            "roof"
+        ],
+        [
+            "book",
+            "pages"
+        ]
+    ],
+    "/r/UsedFor": [
+        [
+            "key",
+            "unlock door"
+        ],
+        [
+            "pen",
+            "write"
+        ],
+        [
+            "spoon",
+            "eat soup"
+        ]
+    ],
+    "/r/CapableOf": [
+        [
+            "bird",
+            "fly"
+        ],
+        [
+            "teacher",
+            "teach"
+        ],
+        [
+            "car",
+            "drive"
+        ]
+    ],
+    "/r/AtLocation": [
+        [
+            "oven",
+            "cookies"
+        ],
+        [
+            "library",
+            "books"
+        ],
+        [
+            "garage",
+            "car"
+        ]
+    ],
+    "/r/Causes": [
+        [
+            "rain",
+            "flood"
+        ],
+        [
+            "studying",
+            "knowledge"
+        ],
+        [
+            "overheating",
+            "meltdown"
+        ]
+    ],
+    "/r/HasSubevent": [
+        [
+            "baking",
+            "mixing ingredients"
+        ],
+        [
+            "taking a shower",
+            "turning on the water"
+        ],
+        [
+            "writing a letter",
+            "picking up the pen"
+        ]
+    ],
+    "/r/HasFirstSubevent": [
+        [
+            "start a car",
+            "insert key"
+        ],
+        [
+            "write a letter",
+            "pick up pen"
+        ],
+        [
+            "cook a meal",
+            "gather ingredients"
+        ]
+    ],
+    "/r/HasLastSubevent": [
+        [
+            "write a letter",
+            "seal the envelope"
+        ],
+        [
+            "attend a wedding",
+            "dance at the reception"
+        ],
+        [
+            "take a flight",
+            "land at the destination"
+        ]
+    ],
+    "/r/HasPrerequisite": [
+        [
+            "sunrise",
+            "night"
+        ],
+        [
+            "harvest",
+            "planting"
+        ],
+        [
+            "flowering",
+            "budding"
+        ]
+    ],
+    "/r/HasProperty": [
+        [
+            "lemon",
+            "sour"
+        ],
+        [
+            "velvet",
+            "soft"
+        ],
+        [
+            "honey",
+            "sweet"
+        ]
+    ],
+    "/r/MotivatedByGoal": [
+        [
+            "study",
+            "pass"
+        ],
+        [
+            "invest",
+            "profit"
+        ],
+        [
+            "train",
+            "compete"
+        ]
+    ],
+    "/r/Desires": [
+        [
+            "student",
+            "knowledge"
+        ],
+        [
+            "artist",
+            "inspiration"
+        ],
+        [
+            "athlete",
+            "victory"
+        ]
+    ],
+    "/r/CreatedBy": [
+        [
+            "poem",
+            "write"
+        ],
+        [
+            "sculpture",
+            "carve"
+        ],
+        [
+            "portrait",
+            "paint"
+        ]
+    ],
+    "/r/Synonym": [
+        [
+            "happy",
+            "joyful"
+        ],
+        [
+            "smart",
+            "intelligent"
+        ],
+        [
+            "large",
+            "big"
+        ]
+    ],
+    "/r/Antonym": [
+        [
+            "happy",
+            "sad"
+        ],
+        [
+            "up",
+            "down"
+        ],
+        [
+            "fast",
+            "slow"
+        ]
+    ],
+    "/r/DistinctFrom": [
+        [
+            "owl",
+            "sparrow"
+        ],
+        [
+            "circle",
+            "square"
+        ],
+        [
+            "comedy",
+            "tragedy"
+        ]
+    ],
+    "/r/DerivedFrom": [
+        [
+            "butterfly",
+            "fly"
+        ],
+        [
+            "airplane",
+            "plane"
+        ],
+        [
+            "basketball",
+            "ball"
+        ]
+    ],
+    "/r/DefinedAs": [
+        [
+            "happiness",
+            "state of joy and contentment"
+        ],
+        [
+            "innovation",
+            "introduction of new ideas and methods"
+        ],
+        [
+            "faith",
+            "belief without evidence"
+        ]
+    ],
+    "/r/HasContext": [
+        [
+            "jargon",
+            "business"
+        ],
+        [
+            "overtime",
+            "sports"
+        ],
+        [
+            "hoosegow",
+            "prison"
+        ]
+    ],
+    "/r/SimilarTo": [
+        [
+            "bus",
+            "coach"
+        ],
+        [
+            "smartphone",
+            "tablet"
+        ],
+        [
+            "skyscraper",
+            "high-rise"
+        ]
+    ],
+    "/r/EtymologicallyRelatedTo": [
+        [
+            "honeymoon",
+            "honigmonat"
+        ],
+        [
+            "caf\u00e9",
+            "cafeteria"
+        ],
+        [
+            "pajamas",
+            "pyjamas"
+        ]
+    ],
+    "/r/CausesDesire": [
+        [
+            "seeing a beach",
+            "plan a vacation"
+        ],
+        [
+            "reading a mystery novel",
+            "solve a puzzle"
+        ],
+        [
+            "smelling fresh coffee",
+            "drink a cup"
+        ]
+    ],
+    "/r/MadeOf": [
+        [
+            "chair",
+            "wood"
+        ],
+        [
+            "shirt",
+            "cotton"
+        ],
+        [
+            "ring",
+            "gold"
+        ]
+    ],
+    "/r/ReceivesAction": [
+        [
+            "door",
+            "open"
+        ],
+        [
+            "homework",
+            "complete"
+        ],
+        [
+            "movie",
+            "watch"
+        ]
+    ]
+}
